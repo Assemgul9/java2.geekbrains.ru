@@ -39,6 +39,7 @@ public class Cat implements ObjectSkills {
     public int maxRun() {
         return maxRun;
     }
+
 }
 
 
