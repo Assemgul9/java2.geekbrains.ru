@@ -32,6 +32,7 @@ public class  Human implements  ObjectSkills{
 
     }
 
+
     @Override
     public int maxJump() {
         return maxJump;

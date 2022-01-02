@@ -10,7 +10,6 @@ public class main {
         objectSkills[3] = new Human("Anton", 2, 5);
 
 
-
         Tests [] tests = new Tests [4];
 
         tests [0] = new Wall(1);
